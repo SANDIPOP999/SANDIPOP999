@@ -1,4 +1,4 @@
-### Hello what's up thank you for visit my profile and I make many programs that can help you🙂
+### Hello what's up thank you for visit my profile and I make many programs 😀
 
 <!--
 **SANDIPOP999/SANDIPOP999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
