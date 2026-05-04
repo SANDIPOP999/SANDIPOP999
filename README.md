@@ -1,5 +1,5 @@
 # 💫 About Me:
-I AM CURRENTLY WORKING ON API ,VIDEO STREAMING SITE<br>I AM NOT A GRADUATE MAKIJNG THINGS WITH SKILL<br>
+I AM CURRENTLY WORKING ON API ,VIDEO STREAMING SITE<br>I AM NOT A GRADUATE MAKING THINGS WITH SKILL<br>
 
 
 ## 🌐 Socials:
@@ -19,6 +19,6 @@ I AM CURRENTLY WORKING ON API ,VIDEO STREAMING SITE<br>I AM NOT A GRADUATE MAKIJ
 ![](https://github-contributor-stats.vercel.app/api?username=SANDIPOP999&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=SANDIPOP999&icon=8&color=8)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=SANDIPOP999e&color=dc143c)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
